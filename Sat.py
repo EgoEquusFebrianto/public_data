@@ -13,13 +13,16 @@ with open('dictionary.json', 'r') as file:
 #             counter += 1
 
 
-for i, e in enumerate(data):
-    data[i] = {
-        "id": i+1,
-        "word": e['word'],
-        "translate": e['translate'],
-        "TabsBar": "Sedang Dipelajari"
-    }
+for e in data:
+    j = 0
+    for ee in data[e]:
+        data[e][j] = {
+            "id": j+1,
+            "word": ee['word'],
+            "translate": ee['translate'],
+            "TabsBar": "Sedang Dipelajari"
+        }
+        j += 1
 
 
 with open('rewardAdSource.json', 'w') as file:

@@ -2,11 +2,8 @@
     "normal": [
         {
             "id": 1,
-            "word": "things",
-            "translate": [
-                "hal-hal",
-                "suatu"
-            ],
+            "word": "due to the",
+            "translate": "karena",
             "TabsBar": "Sedang Dipelajari"
         },
         {
@@ -225,17 +222,16 @@
     ],
     "plus": [
         {
-            "id": 31,
-            "word": "expansion",
+            "id": 1,
+            "word": "deflect",
             "translate": [
-                "ekspansi",
-                "perluasan",
-                "perkembangan"
+                "membelokkan",
+                "mengelak"
             ],
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 32,
+            "id": 2,
             "word": "achieve",
             "translate": [
                 "meraih",
@@ -245,7 +241,7 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 33,
+            "id": 3,
             "word": "retrieve",
             "translate": [
                 "mengambil",
@@ -254,7 +250,7 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 34,
+            "id": 4,
             "word": "initiate",
             "translate": [
                 "memulai",
@@ -263,13 +259,13 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 35,
+            "id": 5,
             "word": "redirection",
             "translate": "pengalihan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 36,
+            "id": 6,
             "word": "facilitate",
             "translate": [
                 "memudahkan",
@@ -278,13 +274,13 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 37,
+            "id": 7,
             "word": "spare",
             "translate": "meluangkan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 38,
+            "id": 8,
             "word": "spare",
             "translate": [
                 "meyisihkan",
@@ -293,7 +289,7 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 39,
+            "id": 9,
             "word": "spare",
             "translate": [
                 "barang cadangan",
@@ -302,7 +298,7 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 40,
+            "id": 10,
             "word": "reassemble",
             "translate": [
                 "mengumpulkan kembali",
@@ -311,19 +307,19 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 41,
+            "id": 11,
             "word": "receive",
             "translate": "menerima",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 42,
+            "id": 12,
             "word": "consider",
             "translate": "mempertimbangkan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 43,
+            "id": 13,
             "word": "approximate",
             "translate": [
                 "perkiraan",
@@ -333,13 +329,13 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 44,
+            "id": 14,
             "word": "figure",
             "translate": "angka",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 45,
+            "id": 15,
             "word": "overwhelming",
             "translate": [
                 "sangat banyak",
@@ -349,7 +345,7 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 46,
+            "id": 16,
             "word": "comprehend",
             "translate": [
                 "memahami",
@@ -358,25 +354,25 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 47,
+            "id": 17,
             "word": "enormous",
             "translate": "sangat besar",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 48,
+            "id": 18,
             "word": "annually",
             "translate": "setiap tahun",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 49,
+            "id": 19,
             "word": "refer",
             "translate": "merujuk",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 50,
+            "id": 20,
             "word": "trustworthiness",
             "translate": [
                 "dapat dipercaya",
@@ -385,61 +381,61 @@
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 51,
+            "id": 21,
             "word": "significant",
             "translate": "penting",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 52,
+            "id": 22,
             "word": "derived",
             "translate": "berasal dari",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 53,
+            "id": 23,
             "word": "derived",
             "translate": "yang berasal",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 54,
+            "id": 24,
             "word": "available",
             "translate": "tersedia",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 55,
+            "id": 25,
             "word": "chunk",
             "translate": "potongan-potongan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 56,
+            "id": 26,
             "word": "employ",
             "translate": "mempekerjakan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 57,
+            "id": 27,
             "word": "divide",
             "translate": "membagi",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 58,
+            "id": 28,
             "word": "instead",
             "translate": "alih-alih",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 59,
+            "id": 29,
             "word": "divert",
             "translate": "mengalihkan",
             "TabsBar": "Sedang Dipelajari"
         },
         {
-            "id": 60,
+            "id": 30,
             "word": "deflect",
             "translate": [
                 "membelokkan",
