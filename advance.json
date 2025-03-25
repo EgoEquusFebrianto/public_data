@@ -125,55 +125,45 @@
             {
                 "id" : 2,
                 "cursor" : false,
-                "word" : "I"
+                "word" : "I had"
             },
             {
                 "id" : 3,
                 "cursor" : false,
-                "word" : "had"
+                "word" : "known"
             },
             {
                 "id" : 4,
                 "cursor" : false,
-                "word" : "known"
+                "word" : "about"
             },
             {
                 "id" : 5,
                 "cursor" : false,
-                "word" : "about"
+                "word" : "the traffic"
             },
             {
                 "id" : 6,
                 "cursor" : false,
-                "word" : "the traffic"
+                "word" : "I would"
             },
             {
                 "id" : 7,
                 "cursor" : false,
-                "word" : "I"
+                "word" : "have"
             },
             {
                 "id" : 8,
                 "cursor" : false,
-                "word" : "would"
+                "word" : "left"
             },
             {
                 "id" : 9,
                 "cursor" : false,
-                "word" : "have"
-            },
-            {
-                "id" : 10,
-                "cursor" : false,
-                "word" : "left"
-            },
-            {
-                "id" : 11,
-                "cursor" : false,
                 "word" : "earlier"
             }
         ],
-        "typeAns" : "J"
+        "typeAns" : "H"
     },
     {
         "id" : 4,
